@@ -8,7 +8,7 @@
 ## 🔥 Skills In Progress
 - Front-End: HTML5, CSS3, JavaScript
 - Programming: Java, Python
-- Tools: VS Code, GitHub, Linux (basic)
+- Tools: IntelliJ ,VS Code, GitHub, Linux (basic)
 - Interests: Web Development | Ethical Hacking | Automation
 
 ## 📂 Featured Projects (Coming Soon!)
