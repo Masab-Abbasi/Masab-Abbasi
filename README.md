@@ -1,41 +1,44 @@
-# 👋 Hi, I’m Masab Haroon Abbasi
+# 👨‍💻 Masab Haroon Abbasi
 
-🌱 I’m currently learning **Front-End Web Development** (HTML, CSS, JavaScript)  
-🛡️ Simultaneously exploring **Cybersecurity Fundamentals**, including Linux usage, penetration testing, and basic scripting  
-🔍 My interests lie in **Infrastructure Security**, **Network Security**, and **System Hardening**
+**Cybersecurity Student | Malware & Infrastructure Security Enthusiast | Learning Code & Systems Deeply**
+
+---
+## 🚀 Currently Learning
+
+- **Frontend Technologies** (HTML, CSS, JavaScript, Bootstrap)
+- **Cybersecurity Fundamentals** (TryHackMe, Network + Linux basics)
+- **Infrastructure Security** (Firewalls, VPNs, Threat Modeling)
 
 ---
 
-## 🛠️ Skills & Tools (in progress)
-- **Front-End Development**: HTML5, CSS3, JavaScript  
-- **Programming**: Java, Python  
-- **Cybersecurity Tools**: Kali Linux, TryHackMe  
-- **Version Control**: Git & GitHub  
-- **Development Tools**: VS Code, IntelliJ IDEA  
+## 🛠 Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
+
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/masab-haroon-abbasi-91808b361" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://tryhackme.com/p/Masab" target="_blank">
+    <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-red?logo=tryhackme&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 ---
-
-## 📂 Current Projects
-- 🎮 Java Quiz Game Console App  
-- 🌐 Youtube Homepage Clone 
-- 🔐 Basic Cybersecurity Practice Labs  
-
 ---
 
-## 📫 Connect With Me
+## 🧠 Quote I Live By
 
-<a href="https://www.linkedin.com/in/masab-haroon-abbasi-91808b361" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://tryhackme.com/p/Masab" target="_blank">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=red" alt="TryHackMe" />
-</a>
-&nbsp;
-<a href="mailto:masababbasi850@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+> _"Stay curious, stay consistent, and growth will follow."_ 🌱
 
----
-
-> 💡 *“Hardwork Beats Talent!”*
