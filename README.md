@@ -1,41 +1,41 @@
-# 👋 Hi, I’m Masab Abbasi
+# 👋 Hi, I’m Masab Haroon Abbasi
 
 🌱 I’m currently learning **Front-End Web Development** (HTML, CSS, JavaScript)  
-🔧 I work with **Java** and **Python**, and I’m passionate about building real-world projects  
-🛡️ I’m exploring **Cybersecurity** tools and concepts (Kali Linux, penetration testing)  
-🎯 My goal is to become a **versatile developer** and start **freelancing** during my university
-
-## 🔥 Skills In Progress
-- Front-End: HTML5, CSS3, JavaScript
-- Programming: Java, Python
-- Tools: IntelliJ ,VS Code, GitHub, Linux (basic)
-- Interests: Web Development | Ethical Hacking | Automation
-
-## 📂 Featured Projects (Coming Soon!)
-- Java Quiz Game  
-- Responsive Portfolio Website  
-- Cybersecurity Tools Scripts  
-
-## 📫 Let's Connect
-- Email: masababbasi850@gmail.com
-- GitHub: [github.com/Masab-Abbasi](https://github.com/Masab-Abbasi)
+🛡️ Simultaneously exploring **Cybersecurity Fundamentals**, including Linux usage, penetration testing, and basic scripting  
+🔍 My interests lie in **Infrastructure Security**, **Network Security**, and **System Hardening**
 
 ---
 
-> “Discipline, Dedication, and Hard Work – my code reflects my mindset.” 💪
-## Hi there 👋
+## 🛠️ Skills & Tools (in progress)
+- **Front-End Development**: HTML5, CSS3, JavaScript  
+- **Programming**: Java, Python  
+- **Cybersecurity Tools**: Kali Linux, TryHackMe  
+- **Version Control**: Git & GitHub  
+- **Development Tools**: VS Code, IntelliJ IDEA  
 
-<!--
-**Masab-Abbasi/Masab-Abbasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📂 Current Projects
+- 🎮 Java Quiz Game Console App  
+- 🌐 Youtube Homepage Clone 
+- 🔐 Basic Cybersecurity Practice Labs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Connect With Me
+
+<a href="https://www.linkedin.com/in/masab-haroon-abbasi-91808b361" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://tryhackme.com/p/Masab" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=red" alt="TryHackMe" />
+</a>
+&nbsp;
+<a href="mailto:masababbasi850@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+---
+
+> 💡 *“Hardwork Beats Talent!”*
