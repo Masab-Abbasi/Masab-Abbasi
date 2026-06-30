@@ -13,10 +13,7 @@
 
 ---
 
-
-I'm an offensive security student who got pulled in by the hard stuff and never looked back. I started with the basics everyone starts with — HTML, CSS, JS, Linux, networking — but the moment I touched my first real vulnerability, something clicked. Defense never interested me the same way. I wanted to break things, understand why they broke, and do it again better.
-
-Web application security is where I've planted my flag. Burp Suite isn't just a tool I use — it's the lens I see the web through. Proxy, Repeater, Intruder: that's where most of my hours go.
+Cyber Security Student with an obsession with the offensive side of the Security.
 
 ---
 
