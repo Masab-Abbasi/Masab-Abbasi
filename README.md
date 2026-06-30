@@ -1,46 +1,42 @@
 <h1 align="center">Masab Haroon Abbasi</h1>
-<h3 align="center">Offensive Security | Web App Exploitation | CTF Player</h3>
+<h3 align="center">Offensive Security Researcher in the Making</h3>
 
 <p align="center">
-  <i>"The harder it gets, the fewer people are left in the room. That's exactly why I stay."</i>
+  <i>"I don't look for the easy box. I look for the one everyone else gave up on."</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IDE-Burp%20Suite-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Always%20Hacking-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Specialization-Web%20Application%20Security-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Daily%20Driver-Burp%20Suite-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mode-CTF%20Player-black?style=for-the-badge" />
 </p>
 
 ---
 
-## ⚔️ Who I Am
 
-I started out learning the fundamentals — HTML, CSS, JavaScript, Linux, networking — the stuff everyone learns. But somewhere along the way, between late-night CTF rounds and digging through Burp's Repeater tab for the tenth time on a single endpoint, I found out what actually pulls me in: **breaking things that aren't supposed to break.**
+I'm an offensive security student who got pulled in by the hard stuff and never looked back. I started with the basics everyone starts with — HTML, CSS, JS, Linux, networking — but the moment I touched my first real vulnerability, something clicked. Defense never interested me the same way. I wanted to break things, understand why they broke, and do it again better.
 
-Offensive security isn't a career goal for me. It's an obsession. I don't chase the easy boxes — I chase the ones that make me close the laptop, walk away, come back at 2 AM, and try again. The harder a challenge is, the more I want it. That's not a personality quirk, that's just how I'm wired.
-
-> Most people quit when it gets hard. That's exactly where I start paying attention.
+Web application security is where I've planted my flag. Burp Suite isn't just a tool I use — it's the lens I see the web through. Proxy, Repeater, Intruder: that's where most of my hours go.
 
 ---
 
-## 🎯 What Drives Me
+### Why Offensive Security?
 
-- **Web Application Security** — this is home. Burp Suite isn't a tool for me, it's my IDE. I live in Proxy, Repeater, and Intruder.
-- **CTFs, relentlessly** — local and international competitions through CTFtime, because nothing teaches offensive thinking faster than a clock that's running out.
-- **The grind over the shortcut** — I'd rather spend six hours understanding *why* an exploit works than five minutes copy-pasting a payload that does.
-- **Standing in the gap** — very few people go deep into offensive security because it's unforgiving. That's precisely why I'm here.
+Most people don't go this route because it's unforgiving. There's no partial credit — either the exploit lands or it doesn't, either the flag is captured or it isn't. That filter is exactly what drew me in. Fewer people are willing to sit with a problem for hours when it refuses to cooperate. I am.
 
----
+I've competed in numerous CTFs — local and international, tracked through CTFtime — not for the leaderboard, but because nothing sharpens offensive thinking like a countdown clock and a target that isn't going to give itself up easily.
 
-## 🏆 Competitive Track Record
-
-- Active participant across **numerous CTF competitions**, both local and international (CTFtime-tracked)
-- Currently progressing through **TryHackMe's Jr Penetration Tester path**
-- Consistently building hands-on skills in vulnerability scanning, identification, and exploitation
+> Stuff getting hard isn't a signal to stop. It's the signal that I'm finally in the right place.
 
 ---
 
-## 🛠 Arsenal
+### 🧗 Where I've Been, Where I'm Headed
+
+- Built the foundation strong by giving alot of time on OS and networking skills
+- Currently Inclined Towards the Offensive Side of the security.
+
+
+### 🛠 Toolkit
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/>
@@ -54,19 +50,11 @@ Offensive security isn't a career goal for me. It's an obsession. I don't chase 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="42" height="42"/>
 </p>
 
-**Daily Driver:** Burp Suite Pro — every workflow runs through it.
+**Core focus areas:** Pentesting - Web Application Security - Network Security
 
 ---
 
-## 📡 Currently Sharpening
-
-- Deep-diving SSRF vulnerability classes and real-world exploitation chains
-- Working through vulnerability databases and scanning methodology (Nmap, OpenVAS, Nikto)
-- Pushing further into the Jr Penetration Tester pathway, one module, one box, one CVE at a time
-
----
-
-## 🌐 Find Me
+### 🌐 Find Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/masab-haroon-abbasi-91808b361" target="_blank">
@@ -75,10 +63,4 @@ Offensive security isn't a career goal for me. It's an obsession. I don't chase 
   <a href="https://tryhackme.com/p/Masab" target="_blank">
     <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-red?logo=tryhackme&logoColor=white&style=for-the-badge" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Everyone wants the flag. Very few want the struggle that earns it. I want the struggle."</i> 🕸️
 </p>
