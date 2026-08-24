@@ -43,24 +43,6 @@
 | Internal Pentesting | Grey Box | Authentication & API Abuse |
 | Exploit Development | CTF / Practice Ranges | Binary Exploitation Fundamentals |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Masab-Abbasi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masab-Abbasi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" />
-
-<img src="https://streak-stats.demolab.com/?user=Masab-Abbasi&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Masab-Abbasi&theme=onedark&no-frame=true&row=1&column=6" />
-
-</div>
-
----
 
 ## 🏴 CTF & Cyber Profiles
 
